@@ -1,20 +1,18 @@
-{
-    "users": [
-        {
-            "id": 1,
-            "name": "Ashley",
-            "lastName": "Graham",
-            "email": "LeonHelp@vip.usa",
-            "age": "36",
-            "photo": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/10/Resident-Evil-4-Remake-Ashley-Graham-Plaga.jpg"
-        },
-        {
-            "id": 2,
-            "name": "El",
-            "lastName": "Loco",
-            "email": "DolarizaArgentina@ElPresident.com",
-            "age": "53",
-            "photo": "https://th.bing.com/th?id=OIF.rYjveZmtP%2fa0Ib7WvNNtgQ&rs=1&pid=ImgDetMain"
-        }
-    ]
-}
+"users": [
+    {
+        "id": 1,
+        "name": "Ashley",
+        "lastName": "Graham",
+        "email": "LeonHelp@vip.usa",
+        "age": "36",
+        "photo": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/10/Resident-Evil-4-Remake-Ashley-Graham-Plaga.jpg"
+    },
+    {
+        "id": 2,
+        "name": "El",
+        "lastName": "Loco",
+        "email": "DolarizaArgentina@ElPresident.com",
+        "age": "53",
+        "photo": "https://th.bing.com/th?id=OIF.rYjveZmtP%2fa0Ib7WvNNtgQ&rs=1&pid=ImgDetMain"
+    }
+]
